@@ -1080,7 +1080,7 @@ body.fixed {
 #page3 .inner .project .fixed_area2 {
 	display: none;
 	height: 7.5em;
-	background: url(../images/project2_bg1.png) no-repeat 0 0 fixed;
+	background: url(../images/project2_bg1.jpg) no-repeat 0 0 fixed;
 	background-size: cover;
 }
 #page3 .inner .project.active .fixed_area2 {
